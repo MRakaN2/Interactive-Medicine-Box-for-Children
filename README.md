@@ -13,9 +13,9 @@ Embedded System Project Building a Interactive Medicine Cabinet for Children usi
 # Our Team
 - Adika Rizky Primantoro (235150301111011) 
 - Haniif Zaahid Nashrullah (235150300111007) 
-- Muhammad Eka Wardana (235150307111004) 
-- Muhammad Syauqi Fadillah (235150307111005) 
-- Muhammad Raka Naufal (235150307111007) 
+- Muhammad Eka Wardana (235150307111005)
+- Muhammad Raka Naufal (235150307111004)  
+- Muhammad Syauqi Fadillah (235150307111007) 
 
 ## Project Domain
 This project focus on automation of giving children their medicine on time with the help of RTC sensor to track time, servo for the opening and closing mechanism, push button for interactive purposes, and DFPlayer for storing audio files and outputted to the speakers to make sound that interact with the children. With Arduino Uno Microcontroller.
